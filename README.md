@@ -8,17 +8,18 @@ I'm Iswarya, an aspiring data analyst based in London. I have a background in so
 - 📊 Passionate about data exploration and analysis.
 - 🎓 Completed an intensive data skills bootcamp with JustIT.
 - 🌟 Proficient in Excel, Tableau, Power BI, Python, SQL, and R.
-- 📧 Reach me at iswarya.it4@gmail.com.
 - 🤝 Open to collaboration on data analytics projects.
 
 ## Skills
 
-![Excel](images/excel_logo.png) ![Tableau](images/tableau_logo.png) ![Power BI](images/power_bi_logo.png) ![Python](images/python_logo.png) ![SQL](images/sql_logo.png) ![R](images/r_logo.png)
+![Python Logo](https://www.python.org/static/community_logos/python-logo.png)
+![SQL Logo](https://logowik.com/content/uploads/images/azure-sql-database6354.png)
+![Excel Logo](https://logos-world.net/wp-content/uploads/2020/11/Microsoft-Excel-Logo.png)
 
-
-## Let's Connect
-
-- LinkedIn: [www.linkedin.com/in/iswarya-g-b368722b4]([link_to_linkedin](https://www.linkedin.com/feed/))
+### Contact Me
+- ✉️ Email: [iswarya.it4@gmail.com](mailto:iswarya.it4@gmail.com)
+- 🤝 LinkedIn: [Iswarya](www.linkedin.com/in/iswarya-g-b368722b4)
+- 🌐 Portfolio: [Iswarya's Portfolio](https://sites.google.com/d/1ttAR5nQvEo-27fcFNi76YBBWMxff2sI9/p/1TThKLq8LcyBIeEO3B7OiUwcRkEGswo3B/edit)
 
 
 Feel free to reach out if you'd like to connect or collaborate on a project!
