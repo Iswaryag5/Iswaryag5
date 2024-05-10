@@ -1,14 +1,24 @@
-Hi       My Name is Iswarya
-I'm an aspiring data analyst.
+# Hi there! 👋
 
-I am a professional with experience in software testing and a passion for data analysis. I've developed a keen analytical mindset and curiosity for data exploration. 
-Following my passion, I am now seeking to transition my career into the data field. I completed an intensive data skills bootcamp with JustIT, learning various technical 
-tools, such as Excel, Tableau, Power BI, Python, SQL and R. I am currently looking to become established in a role as an apprentice or junior data analyst, where I can further 
-develop my skills to advance as a data professional.
-🌍 I'm based in London
-✉️ You can contact me at iswarya.it4@gmail.com
-🤝 I'm open to collaborate on data analytics projects with SQL, Excel, Power BI, Tableau, Python and R.
+I'm Iswarya, an aspiring data analyst based in London. I have a background in software testing and a strong passion for data analysis. I'm currently seeking opportunities to leverage my skills and grow as a data professional.
 
-Skills
+## About Me
+
+- 💼 Professional experience in software testing.
+- 📊 Passionate about data exploration and analysis.
+- 🎓 Completed an intensive data skills bootcamp with JustIT.
+- 🌟 Proficient in Excel, Tableau, Power BI, Python, SQL, and R.
+- 📧 Reach me at iswarya.it4@gmail.com.
+- 🤝 Open to collaboration on data analytics projects.
+
+## Skills
+
+![Excel](images/excel_logo.png) ![Tableau](images/tableau_logo.png) ![Power BI](images/power_bi_logo.png) ![Python](images/python_logo.png) ![SQL](images/sql_logo.png) ![R](images/r_logo.png)
 
 
+## Let's Connect
+
+- LinkedIn: [www.linkedin.com/in/iswarya-g-b368722b4]([link_to_linkedin](https://www.linkedin.com/feed/))
+
+
+Feel free to reach out if you'd like to connect or collaborate on a project!
