@@ -1,6 +1,9 @@
-# Hi there! 👋
-
-I'm Iswarya, an aspiring data analyst based in London. I have a background in software testing and a strong passion for data analysis. I'm currently seeking opportunities to leverage my skills and grow as a data professional.
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+My name is Iswarya
+=================================================================================================================================
+I'm an aspiring data analyst.
+------------------------
+I have a background in software testing and a strong passion for data analysis. I'm currently seeking opportunities to leverage my skills and grow as a data professional.
 
 ## About Me
 
@@ -12,9 +15,9 @@ I'm Iswarya, an aspiring data analyst based in London. I have a background in so
 
 ## Skills
 
-![Python Logo](https://www.python.org/static/community_logos/python-logo.png)
-![SQL Logo](https://logowik.com/content/uploads/images/azure-sql-database6354.png)
-![Excel Logo](https://logos-world.net/wp-content/uploads/2020/11/Microsoft-Excel-Logo.png)
+<p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
+<a href="https://tableau.com/" target="_blank" rel="noreferrer; return false;"><img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/tableau.svg" width="163" height="36" alt="Tableau Logo" /></a>&nbsp;&nbsp;
 
 ### Contact Me
 - ✉️ Email: [iswarya.it4@gmail.com](mailto:iswarya.it4@gmail.com)
