@@ -3,7 +3,7 @@ My name is Iswarya
 =================================================================================================================================
 I'm an aspiring data analyst.
 ------------------------
-I have a background in software testing and a strong passion for data analysis. I'm currently seeking opportunities to leverage my skills and grow as a data professional.
+I have a background in software testing and a strong passion for data analysis. I'm currently expanding my expertise in data analysis, seeking opportunities to leverage my skills and grow as a data professional.
 
 ## About Me
 
@@ -32,7 +32,7 @@ I have a background in software testing and a strong passion for data analysis. 
 ### Contact Me
 - ✉️ Email: [iswarya.it4@gmail.com](mailto:iswarya.it4@gmail.com)
 - 🤝 LinkedIn: [Iswarya](www.linkedin.com/in/iswarya-g-b368722b4)
-- 🌐 Portfolio: [Iswarya's Portfolio](https://sites.google.com/d/1ttAR5nQvEo-27fcFNi76YBBWMxff2sI9/p/1TThKLq8LcyBIeEO3B7OiUwcRkEGswo3B/edit)
+- 🌐 Portfolio: [Iswarya's Portfolio]()
 
 
-Feel free to reach out if you'd like to connect or collaborate on a project!
+Feel free to explore my repositories and reach out if you'd like to connect or collaborate on a project!
