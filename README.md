@@ -8,6 +8,7 @@ I have a background in software testing and a strong passion for data analysis. 
 ## About Me
 
 - 💼 Professional experience in software testing.
+- 🤖 Software Testing: Manual Testing, Automation Testing with Selenium, API Testing with Postman, JIRA.
 - 📊 Passionate about data exploration and analysis.
 - 🎓 Completed an intensive data skills bootcamp with JustIT.
 - 🌟 Proficient in Excel, Tableau, Power BI, Python, SQL, and R.
